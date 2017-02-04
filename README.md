@@ -3,7 +3,7 @@ tutorials for dummies!
 
 Yleiset
 
- *  Dokemntaatio Markdown https://daringfireball.net/projects/markdown/syntax
+ *  Dokementointi Markdown https://daringfireball.net/projects/markdown/syntax
 
 
 ## Tilastotiede
