@@ -5,3 +5,4 @@ Tilastoaineistot:
 
  *  US DATA GOV https://catalog.data.gov/dataset?res_format=CSV
  *  Tilastokeskus https://www.stat.fi/org/avoindata/pxweb.html
+ *  Haku: https://www.google.fi/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=datasets+csv
