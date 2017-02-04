@@ -30,7 +30,7 @@ elif x > a: # jos x on suurempi kuin a, huom loppuun :
 print ( ' vertaa x : a,b')
 if x > a: # jos x on pienempi kuin a, huom loppuun :
     print ('{0} > {1}'.format(x,a))
-elif x > a and x < b: # jos x on suurempi kuin a, pinempi kuin b :
+elif x > a and x < b: # jos x on suurempi kuin a ja pienempi kuin b :
     print ('{0} < {1} < {2}'.format(x,a,b))
 elif x > b:
     print ('{0} > {1}'.format(x,b))
