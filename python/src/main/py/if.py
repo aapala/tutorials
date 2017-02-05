@@ -5,6 +5,11 @@ Tassa esimerkissa esitellaan if-statement.
 if  jos
 elif , jos taas
 else muutoin
+
+Esimerkissa on myos format jolla muotoillaan teksti:
+
+'{0} = ensimmainen arvo, {1} = toinen arvo jne'.format('eka','toka')
+
 '''
 
 #asetaan arvo
