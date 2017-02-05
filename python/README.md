@@ -28,6 +28,12 @@ https://docs.python.org/3.4/library/string.html#format-string-syntax
 
     '{0} tähän tulee eka arvo {1} ja tähän toka'.format('eka','toka')
 
-## IF statement
+## Statements
+
+### if,elif,else
 
  https://www.tutorialspoint.com/python/python_if_else.htm
+
+### for loop
+
+https://wiki.python.org/moin/ForLoop
