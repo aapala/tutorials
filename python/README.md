@@ -1,6 +1,9 @@
 # Python ohjeita ja esimerkkejä
 
+ÄLÄ KÄYTÄ ÄÄKKÖSIÄ eli a-z,A-Z ja 0-9 ovat sallittuja niin muuttujissa kuin kommenteissa.
+
 ## Kommentit
+ 
 
 Kommentti alkaa # merkillä
 
